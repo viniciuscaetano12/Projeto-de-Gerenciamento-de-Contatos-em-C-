@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\GerenciamentoDeDados\bin\Debug\net7.0\GerenciamentoDeDados.exe
+C:\Users\vinic\Desktop\GerenciamentoDeDados\bin\Debug\net7.0\GerenciamentoDeDados.deps.json
+C:\Users\vinic\Desktop\GerenciamentoDeDados\bin\Debug\net7.0\GerenciamentoDeDados.runtimeconfig.json
+C:\Users\vinic\Desktop\GerenciamentoDeDados\bin\Debug\net7.0\GerenciamentoDeDados.dll
+C:\Users\vinic\Desktop\GerenciamentoDeDados\bin\Debug\net7.0\GerenciamentoDeDados.pdb
+C:\Users\vinic\Desktop\GerenciamentoDeDados\obj\Debug\net7.0\GerenciamentoDeDados.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\GerenciamentoDeDados\obj\Debug\net7.0\GerenciamentoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\GerenciamentoDeDados\obj\Debug\net7.0\GerenciamentoDeDados.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\GerenciamentoDeDados\obj\Debug\net7.0\GerenciamentoDeDados.AssemblyInfo.cs
+C:\Users\vinic\Desktop\GerenciamentoDeDados\obj\Debug\net7.0\GerenciamentoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\GerenciamentoDeDados\obj\Debug\net7.0\GerenciamentoDeDados.dll
+C:\Users\vinic\Desktop\GerenciamentoDeDados\obj\Debug\net7.0\refint\GerenciamentoDeDados.dll
+C:\Users\vinic\Desktop\GerenciamentoDeDados\obj\Debug\net7.0\GerenciamentoDeDados.pdb
+C:\Users\vinic\Desktop\GerenciamentoDeDados\obj\Debug\net7.0\GerenciamentoDeDados.genruntimeconfig.cache
+C:\Users\vinic\Desktop\GerenciamentoDeDados\obj\Debug\net7.0\ref\GerenciamentoDeDados.dll
